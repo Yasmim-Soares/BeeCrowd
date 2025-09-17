@@ -1,6 +1,6 @@
 # Exercícios Beecrowd 🚀
 
-Este repositório foi criado para armazenar e organizar meus **exercícios resolvidos da plataforma Beecrowd** (antigo URI Online Judge).  
+Este repositório foi criado para armazenar e organizar meus **exercícios resolvidos da plataforma Beecrowd**.  
 O objetivo é praticar lógica de programação e desenvolvimento em **Java**, seguindo boas práticas de organização e convenções de código.  
 
 ---
