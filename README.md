@@ -20,6 +20,7 @@ Aqui irei documentar os exercícios que já foram implementados, com uma breve e
 |--------------------|-----------|
 | `IdentificandoCha.java` | Lê entradas e identifica a quantidade de acertos em relação a um número escolhido. |
 | `Tomada.java` | Calcula a quantidade total de tomadas disponíveis a partir de réguas conectadas em sequência. |
+| `BuscaInternet.java`| Calcula a quantidade de links acessados no primeiro link depois da entrada da quantidade de pessoas que acessaram o terceiro link. |
 
 ---
 
