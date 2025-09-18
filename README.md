@@ -1,7 +1,7 @@
 # Exercícios Beecrowd 🚀
 
 Este repositório foi criado para armazenar e organizar meus **exercícios resolvidos da plataforma Beecrowd**.  
-O objetivo é praticar lógica de programação e desenvolvimento em **Java**, seguindo boas práticas de organização e convenções de código.  
+O objetivo é praticar lógica de programação e desenvolvimento em **Java**, seguindo boas práticas de organização e convenções de código, outro objetivo é treinar o meu conhecimento do git bash, estarei subindo todos os códigos usando o mesmo.  
 
 ---
 
