@@ -1,7 +1,7 @@
 # Exercícios Beecrowd 🚀
 
 Este repositório foi criado para armazenar e organizar meus **exercícios resolvidos da plataforma Beecrowd**.  
-O objetivo é praticar lógica de programação e desenvolvimento em **Java**, seguindo boas práticas de organização e convenções de código.  
+O objetivo é praticar lógica de programação e desenvolvimento em **Java**, seguindo boas práticas de organização e convenções de código, outro objetivo é treinar o meu conhecimento do git bash, estarei subindo todos os códigos usando o mesmo.  
 
 ---
 
@@ -20,6 +20,7 @@ Aqui irei documentar os exercícios que já foram implementados, com uma breve e
 |--------------------|-----------|
 | `IdentificandoCha.java` | Lê entradas e identifica a quantidade de acertos em relação a um número escolhido. |
 | `Tomada.java` | Calcula a quantidade total de tomadas disponíveis a partir de réguas conectadas em sequência. |
+| `BuscaInternet.java`| Calcula a quantidade de links acessados no primeiro link depois da entrada da quantidade de pessoas que acessaram o terceiro link. |
 
 ---
 
