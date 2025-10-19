@@ -21,6 +21,8 @@ Aqui irei documentar os exercícios que já foram implementados, com uma breve e
 | `IdentificandoCha.java` | Lê entradas e identifica a quantidade de acertos em relação a um número escolhido. |
 | `Tomada.java` | Calcula a quantidade total de tomadas disponíveis a partir de réguas conectadas em sequência. |
 | `BuscaInternet.java`| Calcula a quantidade de links acessados no primeiro link depois da entrada da quantidade de pessoas que acessaram o terceiro link. |
+| `Pneu.java`| Programa deve imprimir uma única linha, contendo a diferença entre a pressão desejada e a pressão lida da calibragem do pneu|
+| `SequenciaSecreta.java`| Programa deve imprimir uma linha contendo um número inteiro representando a quantidade máxima de números da sequência que poderiam ser marcados com um círculo sem que haja dois números iguais consecutivos na sequência marcada.
 
 ---
 
