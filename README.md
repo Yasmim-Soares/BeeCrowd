@@ -1,18 +1,43 @@
-## Getting Started
+# 📝 Repositório de Exercícios - Beecrowd & Treino de Git Bash
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório é destinado ao armazenamento dos meus exercícios resolvidos do **Beecrowd**.  
+Além disso, ele servirá como **treino prático de Git e Git Bash**, incluindo comandos de versionamento, organização e boas práticas de commits.
 
-## Folder Structure
+> **Nota:** Este repositório será atualizado constantemente conforme eu for avançando nos estudos e resolvendo novos problemas.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🎯 Objetivo do Repositório
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Praticar lógica de programação resolvendo problemas do Beecrowd.
+- Melhorar a fluência em Git e Git Bash usando commits, branches e versionamento contínuo.
+- Criar um histórico visível da minha evolução.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🧭 Estrutura dos Exercícios
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Os exercícios estarão armazenados no caminho src/exercicios
+
+---
+
+## ✅ Exercícios Concluídos
+
+| Nome do Exercício | O que ele faz / Resumo |
+|------------------|------------------------|
+| BuscaInternet |                      |
+| Distáncia |                         |
+| Fatorial Simples |                             |
+| IdentificandoCha |                      |
+| Pneu |                         |
+| SequenciaSecreta |                             |
+| Tacografo |                         |
+| Tomada |                             |
+
+---
+
+## 📌 Observação Final
+
+Volte mais tarde — **novos exercícios serão adicionados constantemente**! 🚀
+
+
