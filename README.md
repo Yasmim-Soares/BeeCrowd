@@ -33,7 +33,7 @@ Os exercícios estarão armazenados no caminho src/exercicios
 | SequenciaSecreta |                             |
 | Tacografo |                         |
 | Tomada |                             |
-
+| Notas da Prova|
 ---
 
 ## 📌 Observação Final
